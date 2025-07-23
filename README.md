@@ -14,7 +14,7 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 To provide a brief report that highlights the differences between customers who did and did not accept the coupons. Todo that, we need to explore the data provided using our knowledge of plotting, statistical summaries, and visualization using Python. Then publish our findings in a public facing github repository alongside Pthon code used to analyse the data and conclusions drawn.
 ## Analyzed Data Findings
 **Two coupons were explored and analyzed:**  
-1- Bar coupons: the data analyses conducted suggested that people who visits bars more than 3 times a week or people who visits cheap restaurants 4 or more times a week are the people who mostly accepted the bar coupons. The results seem intuitive and make sense, people who likes to drink and eat outside quite often would welcome these coupons.  
+1- Bar coupons: the data analyses conducted suggests that people who visits bars more than 3 times a week or people who visits cheap restaurants 4 or more times a week are the people who mostly accepted the bar coupons. The results seem intuitive and make sense, people who likes to drink and eat outside quite often would welcome these coupons.  
 2- 
 ## Recomendation
 I would recomend adding the geographic location of the car when the coupon presented, since different locations throughout the day may suggest different group of people. For example, a person driving to his/her work in the city downtown is unlikely to stop for a coffee. Whie a driver that just finished his/her workout in a gym may well feel hungry and thirsty and immediately accept the coupons for refreshments.
