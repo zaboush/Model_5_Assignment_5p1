@@ -1,5 +1,5 @@
 # Will the Customer Accept the Coupon?
-### Assignment Jupyter Notebook URL Address: https://github.com/zaboush/Model_5_Assignment_5p1/blob/main/prompt.ipynb
+**Assignment Jupyter Notebook URL Address:** https://github.com/zaboush/Model_5_Assignment_5p1/blob/main/prompt.ipynb
 ## Project Objectives
 The goal of this project is to use what we have learnt over the past few weeks about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not. 
 There are five different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
